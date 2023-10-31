@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mrliam2614.nmjlm.nomorejoinleavemessage.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PlayerConnectionMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
